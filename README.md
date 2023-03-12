@@ -1,2 +1,0 @@
-# staz
-Programy na staż.
